@@ -104,11 +104,7 @@ Critical Financial Information to Include:
 •	Sales Forecast: Projected sales volume.
 •	Funding Requirements: How much funding is needed and how it will be used.
 •	Return on Investment (ROI): Expected returns for investors.
-Example: QuickInvoice's financial projections for the first three years include:
-•	Year 1: $500,000 in revenue, $300,000 in expenses, and a net profit of $200,000.
-•	Year 2: $1,200,000 in revenue, $600,000 in expenses, and a net profit of $600,000.
-•	Year 3: $2,500,000 in revenue, $1,000,000 in expenses, and a net profit of $1,500,000.
-We require $1,000,000 in funding to cover development and marketing costs, with an expected ROI of 5x over five years."
+
 Call to Action
 Concept of a Call to Action:
 -	A call to action (CTA) prompts your audience to take the next step, whether it's investing, partnering, or trying the software.
